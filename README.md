@@ -1,8 +1,4 @@
-<img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
-<br><br>
-
-<br><br><br>
-<img height="27" src="https://img.shields.io/badge/The%20Sparks%20Foundation-PREDICTION%20USING%20SUPERVISED%20ML-badge%26logo%3DTheSparksFoundation%26logoColor%3Dred" />
+<img height="27" src="https://img.shields.io/badge/The Sparks Foundation -Predicition using Supervised ML-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
 > Problem statement :
 - Predict the percentage of an student based on the no. of study hours. <br>
@@ -15,7 +11,7 @@
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/The%20Sparks%20Foundation-PREDICTION%20USING%20UNSUPERVISED%20ML-badge%26logo%3DTheSparksFoundation%26logoColor%3Dred"/>
+<img height="27" src="https://img.shields.io/badge/The Sparks Foundation -Predicition using Unsupervised ML-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
